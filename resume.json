@@ -1,38 +1,83 @@
 {
     "name": "钟荣观",
-    "birth": "11.03",
+    "birth": "9.19",
     "tel": "18682116784",
     "email": "zhongzhai@163.com",
-    "blog": "http://jaskey.github.io",
+    "blog": "",
     "avatar": "image/avatar.jpg",
     "pages": [],
     "summaries": [
-        "熟练Java、Javascript、掌握Android开发，SQL、PL/SQL；用过C、C#、VBA等其他编程语言。",
-        "掌握Spring、Spring MVC、Struts2、Hibernate、Play!；熟悉jQuery、掌握ExjJS、jQuery Mobile前端框架。",
-        "熟悉并能应用面向对象设计原则、掌握多种设计模式，熟悉Java多线程、同步模型，了解分布式架构。",
-        "突出的学习能力和学习热情，能自学MOOC课程并已完成3门证书；擅用文档、StackOverflow学习技术。"
+        "熟练android相关技术(service,aidl,自定义组件,全局异常处理，缓存，内存性能优化等)",
+        "熟悉并能应用面向对象设计原则、掌握多种设计模式，了解Java多线程、同步模型。",
+		"熟练使用git,cvs版本控制",
+		"掌握J2EE相关技术(struts,webwork,spring,hibernate,webservice,Jquery,jsf)",
+        "突出的学习能力和学习热情，对新技术/构架保持较高的敏感度"
     ],
     "workExperiences": [
         {
-            "company": "大腿公司",
-            "post": "高级软件工程师",
-            "startDate": "2015.01",
+            "company": "布莱克科技有限公司",
+            "post": "android工程师",
+            "startDate": "2016.09",
             "endDate": "至今",
-            "summary": "使用Java、JavaScript开发网易游戏数据平台（有数），供百余款游戏提供可视化数据分析。",
+            "summary": "产品设计建议，选择技术解决方案，开发。",
             "details": [
-                "整个系统前端交互、视觉迭代、前端重构等主要负责人；国际化、pjax局部刷新、权限管理、页面布局开发者。",
-                "完成多个专题页面：多游戏产品概览、运营报表、梦幻手游物品产销、镇魔曲实时数据分析、开测对比、付费专题、留存专题、服务器分析、武魂战斗力分析专题等。新专题页面使平台活跃/新增用户均增加约100%。"
+                "参与'38度C'产品设计，后端协议制定，技术方案选择",
+                "完成'38度C'android端app所有功能开发，维护"
             ]
         },
         {
-            "company": "小牛公司",
-            "post": "软件工程师",
-            "startDate": "2013.07",
-            "endDate": "2015.01",
-            "summary": "开发并维护Oracle EBS（电子商务套件）资产管理系统，为全球客户（如Facebook、华为）提供系统研发支持。",
+            "company": "掌众信息科技",
+            "post": "高级软件工程师",
+            "startDate": "2014.10",
+            "endDate": "2016.09",
+            "summary": "app架构设计，技术选型，产品设计建议，设计合适的解决方案,代码审查， 功能开发，产品发布，维护。",
             "details": [
-                "维护代码量千万级别的Java和PL/SQL代码，对系统进行新功能开发、对100多张数据库表进行数据维护。",
-                "平均每月完成10个，最高20个（KPI 4-6个）新功能/Bug fix；为全球客户开发了100多个客户功能补丁。"
+				"从bwm工程提取相关模块，成立新分支c08",
+                "bwm主程，下属三人分工，管理等",
+                "锁屏秀秀主程"
+            ]
+        },
+        {
+            "company": "深圳惠阳东威电子有限公司",
+            "post": "软件工程师",
+            "startDate": "2012.01",
+            "endDate": "2014.10",
+            "summary": "开发android 应用 ，有跟硬件相关，开发后台管理程序，产品发布，维护",
+            "details": [
+                "Rainbaw",
+				"Bee",
+				"Lilypad",
+				"Reed",
+                "BLELight"
+                "toolkit"
+                "EastechRemote 1版，2版"
+            ]
+        },
+        {
+            "company": "深圳市盟创奇迹科技有限公司",
+            "post": "软件工程师",
+            "startDate": "2010.11",
+            "endDate": "2012.01",
+            "summary": "基于公司的运营,管理等需求开发企业级web应用及维护",
+            "details": [
+				"客服管理系统",
+                "信息协作平台,ruby开发，主程，副开发一位",
+				"流量管理系统",
+                "手机wap网站及后台管理系统"
+             
+            ]
+        },
+        {
+            "company": "万迅电脑软件公司",
+            "post": "软件工程师",
+            "startDate": "2009.04",
+            "endDate": "2010.10",
+            "summary": "主要是外包到盐田码头，蛇口码头，大铲湾码头根据客户需求进行web项目开发",
+            "details": [
+				"SCT-EAM",
+                "DCB BargeLink",
+				"fixedasset"
+             
             ]
         }
     ],
