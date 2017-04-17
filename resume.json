@@ -7,11 +7,7 @@
     "avatar": "image/avatar.jpg",
     "pages": [],
     "summaries": [
-        "熟练android相关技术(service,aidl,自定义组件,全局异常处理，缓存，内存性能优化等)",
-        "熟悉并能应用面向对象设计原则、掌握多种设计模式，了解Java多线程、同步模型。",
-		"熟练使用git,cvs版本控制",
-		"掌握J2EE相关技术(struts,webwork,spring,hibernate,webservice,Jquery,jsf)",
-        "突出的学习能力和学习热情，对新技术/构架保持较高的敏感度"
+ 
     ],
     "workExperiences": [
         {
