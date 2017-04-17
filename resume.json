@@ -14,6 +14,7 @@
         "突出的学习能力和学习热情，对新技术/构架保持较高的敏感度"
     ],
     "workExperiences": [
+<<<<<<< HEAD
         {
             "company": "布莱克科技有限公司",
             "post": "android工程师",
@@ -117,6 +118,9 @@
                 "采用MVC模式，使用Java+OAF框架进行Web开发，PL/SQL进行数据验证以及业务逻辑的实现。"
             ]
         }
+=======
+      
+>>>>>>> 882be6d2a52b4bb178e0a3476cb73dfada757f2f
     ],
     "sections": [
         {
