@@ -80,7 +80,7 @@
             "endDate": "至今",
             "summary": "参与app功能，方案设计。app 架构，及主要功能开发",
             "details": [
-                "程序使用mvp架构，主要涉及技术有rxjava,drag2,retrfit2",
+                "程序使用mvp架构，主要涉及技术有rxjava,drag2,retrofit2",
                 "共有内容，社区，商城，我的几个模块。 ",
                 "支持第三方登录(qq,wx),支持第三方支付（wx,zfb），支持分享(wb,wx,pyq) "
             ]
